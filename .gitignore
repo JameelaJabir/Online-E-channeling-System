@@ -1,0 +1,11 @@
+# Database credentials - never commit this
+src/main/java/db.properties
+
+# Eclipse build output
+build/
+.classpath
+.project
+.settings/
+
+# IDE files
+*.class
